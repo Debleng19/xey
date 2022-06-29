@@ -18,8 +18,8 @@ Script Crack Facebook Versi Free Publik
 #### Cara Untuk Update
  ```
   $ cd $HOME
-  $ rm -rf FBL
+  $ rm -rf xey
   $ git clone https://github.com/Debleng19/xey
-  $ cd FBL
+  $ cd xey
   $ git pull
   $ python run.py
